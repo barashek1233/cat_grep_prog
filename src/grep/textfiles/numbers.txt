@@ -1,0 +1,13 @@
+This is a complex text file.
+You should put the number of the line right before it.
+Like this line in specific is a third line.
+And this line has to be started with the digit "4".
+I guess it works properly.
+If it's not, start over.
+And do not forget to try execute the same command right after its successfull work.
+You might find this line starting with two "8" symbols in case it edits the file itself.
+9 But like this exact line has to sart with two "9" in it.
+So do not forget to fix it if it's wrong!
+Work on your code and make it better!
+
+I support you!
